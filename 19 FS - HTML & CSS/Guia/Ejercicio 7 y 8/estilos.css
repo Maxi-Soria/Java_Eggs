@@ -1,0 +1,53 @@
+
+body{
+    background-color: burlywood;
+}
+
+h1{
+    font-family: 'Courier New';
+    text-align: center;
+    font-size: 30px;
+}
+
+h2{
+    font-family: 'Times New Roman';
+    text-align: center;
+    font-size: 25px;
+   
+}
+
+p:first-of-type{
+    font-weight: bold;
+    font-size: 24px;
+    color: blueviolet;
+    text-align: left;
+    
+
+    
+}
+
+p:last-of-type{
+    font-style: italic;
+    font-size: 18px;
+    color:brown;
+    text-align: left;
+}
+
+a{
+    color: red;
+    
+}
+
+a:hover{
+    color: white;
+    background-color: red;
+}
+
+
+
+
+
+
+
+
+
